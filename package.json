@@ -1,0 +1,28 @@
+{
+  "name": "student-success-portal",
+  "version": "1.0.0",
+  "description": "Student Success Portal using Next.js and Express.js",
+  "main": "server.mjs",
+  
+  "type": "module",
+  "scripts": {
+  "dev": "next dev -p 3000",
+  "build": "next build",
+  "start": "next start -p 3000"
+}
+,
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.17.1",
+    "next": "^15.4.6",
+    "nodemon": "^3.1.10",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
