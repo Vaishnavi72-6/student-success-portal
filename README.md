@@ -17,7 +17,7 @@ Full-stack Student Success Portal with mood-based suggestions, badges, and inter
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/Vaishnavi72-6/student-success-portal)
 cd server
 npm install
 npm start
